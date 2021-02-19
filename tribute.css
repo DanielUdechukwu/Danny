@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+*{
+  font-family: cursive;
+}
+body{
+  background-color: aqua;
+  max-width: 1300px;
+  width: 70%;
+  margin: 0 auto;
+}
+.heading{
+  font-family: "Reggae One";
+}
+
+.image{
+  float: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 15px;
+}
+
+.description{
+  text-align: justify;
+}
+
+.section-1{
+  align-items: center;
+}
+
+.section-2{
+  text-align: justify;
+}
